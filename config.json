@@ -1,0 +1,56 @@
+
+  "facebook": {
+    "email": "your-email -or-phone-here",
+    "password": "your-facebook-password-here"
+  },
+  "groupUrl": "https://www.facebook.com/groups/your-group-id-or-name 😊💤💕 Free Time Adda 💕💤 😊",
+  "phoneOrAdminLink": "https://https://www.facebook.com/umme.habiba.358483/yourprofile 358483or +8801975751252",
+  "welcomeMessage": "স্বাগতম! ❤️ তোমাকে আমাদের Habiba Lyrics Community তে স্বাগতম। নিজের পছন্দের গান শেয়ার করো 🎶",
+  "leftMessage": "দুঃখিত, {name} গ্রুপ ছাড়েছে।",
+  "rules": [
+    "সবাইকে সম্মান করতে হবে।",
+    "গান/ভিডিও পোস্ট করলে ট্যাগ করতে ভুলবে না।",
+    "স্প্যাম বা অশালীন কিছু শেয়ার করা যাবে না।"
+  ],
+  "schedule": [
+    {
+      "day": "Monday",
+      "type": "Old classics",
+      "message": "সোমবার: Old classics 🎤 - আজকের গান:"
+    },
+    {
+      "day": "Tuesday",
+      "type": "New releases",
+      "message": "মঙ্গলবার: New releases 🚀 - আজকের গান:"
+    },
+    {
+      "day": "Wednesday",
+      "type": "Romantic",
+      "message": "বুধবার: Romantic songs 💕 - আজকের গান:"
+    },
+    {
+      "day": "Thursday",
+      "type": "Dance",
+      "message": "বৃহস্পতিবার: Dance / Party mix 💃 - আজকের গান:"
+    },
+    {
+      "day": "Friday",
+      "type": "Requests",
+      "message": "শুক্রবার: Member request day 🙌 - আজকের গান:"
+    },
+    {
+      "day": "Saturday",
+      "type": "Live session",
+      "message": "শনিবার: Live session 🎥 - আজকের গান:"
+    },
+    {
+      "day": "Sunday",
+      "type": "Shoutouts",
+      "message": "রবিবার: Member shoutouts 🌟 - আজকের গান:"
+    }
+  ],
+  "postTimes": [
+    "12:00",
+    "18:00"
+  ]
+}
