@@ -1,0 +1,15 @@
+
+  "name": "habiba-lyrics-bot",
+  "version": "1.0.0",
+  "description": "Template Facebook group helper bot (Puppeteer-based). Fill config.json and run with node.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "puppeteer": "^19.0.0",
+    "node-schedule": "^2.1.0"
+  },
+  "author": "Created for Habiba Lyrics Community",
+  "license": "MIT"
+}
